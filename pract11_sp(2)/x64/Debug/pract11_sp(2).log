@@ -1,0 +1,4 @@
+﻿  pract11_sp(2).cpp
+C:\Users\st310-08\Desktop\Romanov_PR31\pract11_sp(2)\pract11_sp(2).cpp(326,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\st310-08\Desktop\Romanov_PR31\pract11_sp(2)\pract11_sp(2).cpp(344,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  pract11_sp(2).vcxproj -> C:\Users\st310-08\Desktop\Romanov_PR31\pract11_sp(2)\x64\Debug\pract11_sp(2).exe
